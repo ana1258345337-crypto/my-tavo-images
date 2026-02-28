@@ -1,0 +1,53 @@
+name: Auto Generate Image Gallery
+
+on:
+  push:
+    paths:
+      - 'images/**'  # 精准监控 images 文件夹，只有这里面有新图才干活
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Generate README.md
+        run: |
+          python -c "
+          import os
+          import urllib.parse
+          
+          image_dir = 'images'
+          if os.path.exists(image_dir):
+              # 精准获取 images 文件夹下的所有图片
+              files = [f for f in os.listdir(image_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+              
+              # 按文件名倒序排列，在云端比按时间排更稳定
+              files.sort(reverse=True)
+              
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write('# 我的自动图库\n\n')
+                  for img in files:
+                      # 把文件夹名字拼接上去
+                      img_path = f'{image_dir}/{img}'
+                      safe_path = urllib.parse.quote(img_path, safe='/')
+                      f.write(f'![]({safe_path})\n\n')
+          "
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update gallery in README" && git push)

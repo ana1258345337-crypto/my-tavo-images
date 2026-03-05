@@ -476,8 +476,6 @@
 
 ![](images/%E6%99%A8%E5%85%89%E9%A2%9D%E6%8A%B5%E9%97%AE%E5%8F%AF%E5%A5%BD.png)
 
-![](images/%E6%99%A8%E5%85%89%E9%97%A8%E5%A4%96%E6%8E%8C%E9%97%A8%E8%A8%80.png)
-
 ![](images/%E6%99%A8%E5%85%89%E8%96%84%E9%80%8F%E9%AA%91%E9%B8%BE%E8%BF%9F.png)
 
 ![](images/%E6%99%A8%E5%85%89%E8%90%BD%E8%82%A9%E8%8A%B1%E6%BB%A1%E6%9E%95.png)

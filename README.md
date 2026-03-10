@@ -390,8 +390,6 @@
 
 ![](images/%E7%81%AF%E7%AC%BC%E6%A9%98%E7%85%A7%E5%B9%B6%E8%82%A9%E8%A1%8C.png)
 
-![](images/%E6%BD%AE%E9%80%80%E6%9C%AA%E6%AD%87%E5%A4%8D%E6%B8%A9%E7%A3%A8.png)
-
 ![](images/%E6%BD%AE%E9%80%80%E6%9C%AA%E6%AD%87%E5%8F%88%E5%82%AC%E6%B5%AA.png)
 
 ![](images/%E6%BD%AE%E9%80%80%E5%8F%8C%E6%A5%AB%E6%9C%AA%E5%81%9C%E8%88%9F.png)

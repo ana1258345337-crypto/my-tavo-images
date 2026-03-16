@@ -294,8 +294,6 @@
 
 ![](images/%E7%A1%AC%E8%80%8C%E4%B8%8D%E8%A8%80%E7%9B%AF%E7%9F%B3%E5%A3%81.png)
 
-![](images/%E7%9F%B3%E9%98%B6%E4%BE%A7%E8%BA%AB%E5%80%99%E7%BA%A4%E6%89%8B.png)
-
 ![](images/%E7%9F%B3%E6%A1%8C%E8%B1%86%E8%8A%B1%E8%AF%9D%E5%AE%B6%E5%B8%B8.png)
 
 ![](images/%E7%9F%B3%E5%BE%84%E5%81%B6%E9%80%A2%E5%94%A4%E5%B8%88%E5%AB%82.png)

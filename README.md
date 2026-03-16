@@ -340,8 +340,6 @@
 
 ![](images/%E7%8E%89%E4%BA%BA%E7%9B%B8%E6%8B%A5%E5%90%AC%E5%BF%83%E5%A3%B0.png)
 
-![](images/%E7%8E%84%E8%A1%AB%E4%BB%A3%E6%89%AB%E8%8D%AF%E5%BA%90%E5%B0%98.png)
-
 ![](images/%E7%8E%84%E7%99%BD%E5%B9%B6%E8%A1%8C%E8%B5%B4%E8%8D%AF%E5%BA%90.png)
 
 ![](images/%E7%8E%84%E7%99%BD%E5%B9%B6%E8%82%A9%E8%B8%8F%E6%99%A8%E5%85%89.png)

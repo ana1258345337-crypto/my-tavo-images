@@ -1,5 +1,7 @@
 # 我的自动图库
 
+![](images/%E9%BE%9F%E9%A6%96%E6%8A%B5%E7%A9%B4%E5%BE%85%E5%90%9B%E8%A8%80.png)
+
 ![](images/%E9%BE%9F%E9%A6%96%E6%8A%B5%E7%A9%B4%E4%BB%A4%E6%B1%82%E6%AC%A2.png)
 
 ![](images/%E9%BD%BF%E7%AD%BE%E7%99%BD%E8%82%A9%E7%AD%BE%E8%8A%B1%E5%90%8D.png)

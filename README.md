@@ -56,8 +56,6 @@
 
 ![](images/%E9%9D%9E%E6%98%AF%E7%96%97%E7%96%BE%E6%98%AF%E5%BF%83%E8%B4%AA.png)
 
-![](images/%E9%9D%92%E8%A2%8D%E6%8A%98%E6%89%87%E9%97%AE%E8%8A%B3%E5%90%8D.png)
-
 ![](images/%E9%9D%92%E7%BA%B9%E5%99%AC%E5%BF%83%E6%89%8B%E4%B8%8D%E7%94%B1.png)
 
 ![](images/%E9%9D%92%E5%85%89%E8%A6%86%E8%83%B8%E8%9B%8A%E9%80%80%E5%AF%B8.png)

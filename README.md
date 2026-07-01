@@ -1012,8 +1012,6 @@
 
 ![](images/%E6%98%A5%E6%BD%AE%E5%A4%9C%E6%B8%A1%E5%85%A5%E8%8A%B1%E6%B7%B1%E5%A4%84.png)
 
-![](images/%E6%98%A5%E6%B0%B4%E6%B4%97%E5%87%9D%E8%84%82.png)
-
 ![](images/%E6%98%A5%E5%AE%B5%E5%B8%90%E6%9A%96%E8%A6%81%E5%B0%84%E4%BA%86.png)
 
 ![](images/%E6%98%A5%E5%AE%B5%E5%B8%90%E6%9A%96%E8%9A%80%E9%AA%A8%E9%94%80.png)

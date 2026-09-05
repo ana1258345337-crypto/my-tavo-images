@@ -2966,6 +2966,8 @@
 
 ![](images/%E4%B8%80%E5%80%BA%E4%B8%80%E9%A1%B6%E8%AF%B4%E5%88%B0%E5%BA%95.png)
 
+![](images/scene_%E7%8B%82%E5%BE%92%E5%86%85%E5%B0%84%E7%99%BD%E8%99%8E%E7%A9%B4.png)
+
 ![](images/scene_%E6%B7%B1%E5%A4%9C%E5%BD%92%E5%AE%B6%E6%9A%96%E6%89%8B.png)
 
 ![](images/scene_%E4%BE%9D%E4%BE%9D%E6%83%9C%E5%88%AB%E5%BE%85%E6%98%8E%E6%9C%9D.png)

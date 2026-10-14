@@ -2788,6 +2788,8 @@
 
 ![](images/%E4%B8%80%E5%80%BA%E4%B8%80%E9%A1%B6%E8%AF%B4%E5%88%B0%E5%BA%95.png)
 
+![](images/scene_%E9%9B%AA%E5%A4%9C%E6%B8%A9%E6%B1%A4%E6%B2%89%E8%85%B0%E5%90%88.png)
+
 ![](images/scene_%E6%B8%A9%E6%B1%A4%E8%83%8C%E5%9D%90%E5%BC%84%E6%98%A5%E6%BD%AE.png)
 
 ![](images/scene_%E6%B7%B1%E5%A4%9C%E5%BD%92%E5%AE%B6%E6%9A%96%E6%89%8B.png)
